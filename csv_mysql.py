@@ -30,7 +30,7 @@ def ingesta_csv_a_mysql(csv_file, mysql_host, mysql_user, mysql_password, mysql_
 mysql_host = 'MacBook-Pro-de-Mac.local'
 mysql_user = 'root@localhost'
 mysql_password = 'password'
-mysql_database = 'arkanos'
+mysql_database = 'arkano'
 mysql_table = 'complaints'
 
 # Ruta del archivo CSV
